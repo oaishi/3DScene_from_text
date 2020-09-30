@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "color_name": "gray",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "red",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "red",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "still"
+    }
+  ],
+  "description": [
+    "There are a large cube of gray color and matte texture, a large cylinder of purple color and shiny texture, a small cube of yellow color and matte texture, a small cube of gray color and matte texture, a large cylinder of cyan color and shiny texture, a small cylinder of red color and shiny texture and a large cylinder of purple color and matte texture."
+  ],
+  "source": [
+    "CLEVR_valA_004317.png"
+  ]
+}

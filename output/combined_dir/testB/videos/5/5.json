@@ -1,0 +1,80 @@
+{
+  "objects": [
+    {
+      "color_name": "red",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "green",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "green",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "green",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    }
+  ],
+  "description": [
+    "Draw a large red colored sphere of matte texture, a small green colored cube of matte texture, a large purple colored cube of matte texture, a large yellow colored sphere of shiny texture, a small red colored sphere of matte texture, a large green colored sphere of matte texture, a small yellow colored sphere of matte texture, a small yellow colored cylinder of shiny texture, a large cyan colored cube of shiny texture and a small blue colored cylinder of shiny texture."
+  ],
+  "source": [
+    "CLEVR_valB_004240.png"
+  ]
+}

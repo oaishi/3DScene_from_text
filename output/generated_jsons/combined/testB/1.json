@@ -1,0 +1,31 @@
+{
+  "objects": [
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "any",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "any",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "any",
+      "motion_name": "rocking"
+    }
+  ],
+  "description": [
+    "Draw two moving objects and one rocking object."
+  ],
+  "source": [
+    "CLEVR_valB_003667.png"
+  ]
+}

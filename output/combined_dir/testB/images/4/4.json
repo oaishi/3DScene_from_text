@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "color_name": "red",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "red",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "green",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    }
+  ],
+  "description": [
+    "There are a small rocking red sphere of matte texture, a small still purple sphere of matte texture, a small rocking red sphere of shiny texture, a large moving green cube of matte texture, a large moving green cube of matte texture, a small moving purple cube of matte texture and a small rocking cyan sphere of shiny texture."
+  ],
+  "source": [
+    "CLEVR_valB_003958.png"
+  ]
+}

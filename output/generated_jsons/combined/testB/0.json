@@ -1,0 +1,66 @@
+{
+  "objects": [
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "eos"
+    }
+  ],
+  "description": [
+    "Draw two spheres, four cubes and two cylinders."
+  ],
+  "source": [
+    "CLEVR_valB_004268.png"
+  ]
+}

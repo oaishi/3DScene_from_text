@@ -1,0 +1,58 @@
+{
+  "objects": [
+    {
+      "color_name": "blue",
+      "size_name": "any",
+      "mat_name": "rubber",
+      "obj_name": "cylinder"
+    },
+    {
+      "color_name": "red",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "any"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "any"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "any"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "any"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "any"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "cylinder"
+    },
+    {
+      "color_name": "any",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cylinder"
+    }
+  ],
+  "description": [
+    "There are a blue matte cylinder, a large red shiny object, a small cyan shiny object, a small blue matte object, a green shiny cube, a small yellow matte object, a small gray cylinder and a large matte cylinder in the picture."
+  ],
+  "source": [
+    "CLEVR_valB_004165.png"
+  ]
+}

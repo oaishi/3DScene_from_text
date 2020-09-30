@@ -1,0 +1,73 @@
+{
+  "objects": [
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "eos"
+    }
+  ],
+  "description": [
+    "Draw four spheres, three cylinders and two cubes."
+  ],
+  "source": [
+    "CLEVR_valA_004294.png"
+  ]
+}

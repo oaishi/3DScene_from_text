@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "sphere"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "any",
+      "obj_name": "cylinder"
+    }
+  ],
+  "description": [
+    "There are four spheres and one cylinder."
+  ],
+  "source": [
+    "CLEVR_valB_004317.png"
+  ]
+}

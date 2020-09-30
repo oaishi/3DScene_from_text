@@ -1,0 +1,66 @@
+{
+  "objects": [
+    {
+      "color_name": "green",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "red",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    }
+  ],
+  "description": [
+    "Draw a green metal small sphere, a purple metal large cylinder, a red rubber small sphere, a gray metal small sphere, a blue rubber large cube, a cyan rubber large cylinder, a gray metal large cube and a blue rubber small sphere."
+  ],
+  "source": [
+    "CLEVR_valA_004025.png"
+  ]
+}

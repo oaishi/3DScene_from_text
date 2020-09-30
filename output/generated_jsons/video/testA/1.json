@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "color_name": "gray",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "green",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "red",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    }
+  ],
+  "description": [
+    "A large still gray shiny sphere, a large bouncing green matte cylinder, a large bouncing blue shiny sphere, a small moving purple matte sphere, a large bouncing blue matte cube, a small bouncing red matte cylinder and a large moving brown matte cube."
+  ],
+  "source": [
+    "CLEVR_valA_003744.png"
+  ]
+}

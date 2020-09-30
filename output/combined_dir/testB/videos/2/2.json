@@ -1,0 +1,66 @@
+{
+  "objects": [
+    {
+      "color_name": "green",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    }
+  ],
+  "description": [
+    "Draw a small rocking cylinder of blue color and matte texture, a small bouncing sphere of blue color and shiny texture, a small bouncing cylinder of gray color and matte texture, a large still sphere of purple color and matte texture, a large rocking cylinder of brown color and matte texture, a small bouncing cylinder of brown color and matte texture, a small bouncing sphere of blue color and matte texture and a large bouncing sphere of yellow color and shiny texture."
+  ],
+  "source": [
+    "CLEVR_valB_003970.png"
+  ]
+}

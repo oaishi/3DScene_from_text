@@ -1,0 +1,73 @@
+{
+  "objects": [
+    {
+      "color_name": "purple",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "rocking"
+    }
+  ],
+  "description": [
+    "There are a gray bouncing metal small cylinder, a purple moving rubber small cube, a blue bouncing rubber large sphere, a red bouncing metal large cube, a cyan moving rubber small sphere, a purple rocking metal large cube, a yellow moving rubber small sphere, a blue rocking rubber large sphere and a gray rocking rubber small cylinder."
+  ],
+  "source": [
+    "CLEVR_valB_003722.png"
+  ]
+}

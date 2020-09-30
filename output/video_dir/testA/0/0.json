@@ -1,0 +1,45 @@
+{
+  "objects": [
+    {
+      "color_name": "red",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "any",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "any",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "any",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "any",
+      "motion_name": "still"
+    }
+  ],
+  "description": [
+    "A small still red shiny object, a small rocking yellow cube, a large moving shiny cylinder, a large still yellow sphere and a large still yellow shiny object."
+  ],
+  "source": [
+    "CLEVR_valA_003655.png"
+  ]
+}

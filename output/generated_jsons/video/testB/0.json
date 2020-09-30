@@ -1,0 +1,38 @@
+{
+  "objects": [
+    {
+      "color_name": "brown",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "red",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "rocking"
+    }
+  ],
+  "description": [
+    "There are a small rocking cube of green color and shiny texture, a large bouncing sphere of brown color and matte texture, a large rocking sphere of cyan color and shiny texture and a large rocking sphere of red color and shiny texture."
+  ],
+  "source": [
+    "CLEVR_valB_003998.png"
+  ]
+}

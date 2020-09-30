@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "color_name": "red",
+      "size_name": "large",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "spinning"
+    },
+    {
+      "color_name": "any",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "any",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "any",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "any",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "any",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "still"
+    }
+  ],
+  "description": [
+    "Draw a large spinning red cube, a small moving matte cube, a small still blue matte object, a large still yellow shiny object, a large moving green shiny object, a small moving cyan cube and a still brown shiny cylinder."
+  ],
+  "source": [
+    "CLEVR_valB_003899.png"
+  ]
+}

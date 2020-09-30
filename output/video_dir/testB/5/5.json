@@ -1,0 +1,73 @@
+{
+  "objects": [
+    {
+      "color_name": "cyan",
+      "size_name": "any",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "large",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "purple",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "any",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "any",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "any",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "any",
+      "size_name": "any",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "any",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "any",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "green",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    }
+  ],
+  "description": [
+    "There are a moving cyan shiny cube, a large moving gray cylinder, a large rocking purple matte object, a large bouncing shiny cylinder, a small still shiny sphere, a bouncing brown matte cylinder, a small moving shiny cube, a small moving shiny cylinder and a small moving green cube in the picture."
+  ],
+  "source": [
+    "CLEVR_valB_003776.png"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "objects": [
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "spinning"
+    },
+    {
+      "color_name": "green",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    }
+  ],
+  "description": [
+    "Draw a bouncing blue rubber small cube, a spinning gray metal large cube and a still green metal small sphere."
+  ],
+  "source": [
+    "CLEVR_valA_003608.png"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "any",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "small",
+      "mat_name": "any",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    }
+  ],
+  "description": [
+    "There are a small still blue sphere, a small bouncing blue cube, a large rocking shiny cylinder, a small bouncing cyan cylinder, a moving yellow shiny cube, a small moving gray cube and a small bouncing cyan cylinder in the picture."
+  ],
+  "source": [
+    "CLEVR_valA_003634.png"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "objects": [
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cylinder"
+    },
+    {
+      "color_name": "cyan",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder"
+    },
+    {
+      "color_name": "red",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder"
+    }
+  ],
+  "description": [
+    "Draw a large yellow colored cylinder of matte texture, a large cyan colored cube of matte texture, a large brown colored cylinder of shiny texture, a large red colored cube of matte texture and a large brown colored cylinder of shiny texture."
+  ],
+  "source": [
+    "CLEVR_valB_004166.png"
+  ]
+}

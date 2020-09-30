@@ -1,0 +1,66 @@
+{
+  "objects": [
+    {
+      "color_name": "purple",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "spinning"
+    },
+    {
+      "color_name": "green",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "gray",
+      "size_name": "small",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "red",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "red",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "blue",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "still"
+    }
+  ],
+  "description": [
+    "A large spinning purple shiny cube, a small still green matte cube, a large moving yellow shiny sphere, a small bouncing gray matte cylinder, a small still red shiny sphere, a large bouncing yellow matte sphere, a large still blue shiny cylinder and a large still brown shiny cylinder."
+  ],
+  "source": [
+    "CLEVR_valB_003661.png"
+  ]
+}

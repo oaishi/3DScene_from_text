@@ -1,0 +1,66 @@
+{
+  "objects": [
+    {
+      "color_name": "cyan",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "sphere",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cube",
+      "motion_name": "moving"
+    },
+    {
+      "color_name": "green",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "rocking"
+    },
+    {
+      "color_name": "green",
+      "size_name": "large",
+      "mat_name": "metal",
+      "obj_name": "cube",
+      "motion_name": "still"
+    },
+    {
+      "color_name": "brown",
+      "size_name": "large",
+      "mat_name": "rubber",
+      "obj_name": "cylinder",
+      "motion_name": "bouncing"
+    },
+    {
+      "color_name": "yellow",
+      "size_name": "small",
+      "mat_name": "metal",
+      "obj_name": "cylinder",
+      "motion_name": "moving"
+    }
+  ],
+  "description": [
+    "Draw a large sphere of cyan color and matte texture, a large cylinder of yellow color and matte texture, a small sphere of brown color and shiny texture, a large cube of cyan color and matte texture, a small cube of green color and shiny texture, a small cube of green color and shiny texture, a large cylinder of brown color and matte texture and a small cylinder of yellow color and shiny texture."
+  ],
+  "source": [
+    "CLEVR_valB_004101.png"
+  ]
+}
