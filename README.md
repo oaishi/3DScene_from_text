@@ -1,7 +1,6 @@
 # Holistic static and animated 3D scene generation from diverse text descriptions
 
-
-This anonymous repository contains examples, dataset generation code and pretrained models for evaluation for the submission under "Global Undergraduate Awards 2020".
+We propose a novel approach to generate 3D scenes (both animated and static) from text using a Transformer based NLP architecture and non-differential renderer.
 
 ## Dependencies
 
