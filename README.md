@@ -16,8 +16,8 @@ We propose a novel approach to generate 3D scenes (both animated and static) fro
 
 Description | Ground truth | Generated Scene
 ------------ |------------ | -------------
-"A rocking cyan matte sphere, a small rocking gray <br> matte object, a small rocking shiny cylinder,<br> a large rocking blue matte object, a spinning blue matte cube,<br>  a small moving brown sphere <br> and a rocking blue shiny cube." | ![](https://github.com/ShapeGen/Holistic_Generation/blob/master/output/video_dir/testA/3/3.gif) | ![](https://github.com/ShapeGen/Holistic_Generation/blob/master/output/video_dir/testA/3/output.gif)
-"Draw a large yellow colored cylinder of matte texture, a large cyan colored cube of  <br> matte texture, a large brown colored cylinder of shiny texture, a large red colored <br> cube of matte texture and a large brown colored <br> cylinder of shiny texture." | ![](https://github.com/ShapeGen/Holistic_Generation/blob/master/output/image_dir/images_testB/1/CLEVR_valB_004166.png) | ![](https://github.com/ShapeGen/Holistic_Generation/blob/master/output/image_dir/images_testB/1/CLEVR_new_000001.png)
+"A rocking cyan matte sphere, a small rocking gray <br> matte object, a small rocking shiny cylinder,<br> a large rocking blue matte object, a spinning blue matte cube,<br>  a small moving brown sphere <br> and a rocking blue shiny cube." | ![](https://github.com/oaishi/3DScene_from_text/blob/master/output/video_dir/testA/3/3.gif) | ![](https://github.com/oaishi/3DScene_from_text/blob/master/output/video_dir/testA/3/output.gif)
+"Draw a large yellow colored cylinder of matte texture, a large cyan colored cube of  <br> matte texture, a large brown colored cylinder of shiny texture, a large red colored <br> cube of matte texture and a large brown colored <br> cylinder of shiny texture." | ![](https://github.com/oaishi/3DScene_from_text/blob/master/output/image_dir/images_testB/1/CLEVR_valB_004166.png) | ![](https://github.com/oaishi/3DScene_from_text/blob/master/output/image_dir/images_testB/1/CLEVR_new_000001.png)
 
 
 All other examples are under '\Output\' folder.
