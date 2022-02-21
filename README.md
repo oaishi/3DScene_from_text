@@ -87,6 +87,8 @@ python runner.py --type "combined" --sector "predict_single" --description <YOUR
 ```
 
 ## Dataset Generation 
+Our dataset is generated on top of the CLEVR dataset. The CLEVR dataset includes some JSON files that include all the scenes they used. We take these JSON files and generate 13 kinds of scene descriptions for each of these files. Follow these steps to generate the dataset:
+
 * Download the [CLEVR dataset](https://dl.fbaipublicfiles.com/clevr/CLEVR_CoGenT_v1.0_no_images.zip) 
 * Pass the JSON file path to [line 5](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/generate_description_numpy.py#L5)
 * If you want to generate image descriptions, use the templates from [description_template_numpy.py file](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/description_template_numpy.py), and for video descriptions, use the templates from [description_template_video_numpy.py file](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/video_descriptions/description_template_video_numpy.py) in [line 1](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/generate_description_numpy.py#L1)
