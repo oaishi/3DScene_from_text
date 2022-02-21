@@ -1,0 +1,13 @@
+name: text2scene
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch=1.2.0=py3.7_cuda100_cudnn7_1
+  - pip:
+    - opencv-python==4.1.1.26    
+    - tqdm==4.30.0
+    - transformers==3.0.2
+prefix: D:\anaconda
+

@@ -1,15 +1,17 @@
-# Holistic static and animated 3D scene generation from diverse text descriptions
+# Static and Animated 3D Scene Generation from Diverse Text Descriptions
 
 We propose a novel approach to generate 3D scenes (both animated and static) from text using a Transformer based NLP architecture and non-differential renderer.
 
 ## Dependencies
 
 1. Blender (version 2.78c) (Please see details  from [here](https://github.com/facebookresearch/clevr-dataset-gen))
-2. Pytorch
-3. [Transformers](https://huggingface.co/transformers/)
+2. Pytorch (==1.2.0)
+3. [Transformers](https://huggingface.co/transformers/) (==3.0.2)
 4. Numpy
 5. Pickel
 6. OpenCV
+
+A simplistic .yml file has been added for reference.
 
 ## Few Examples
 
