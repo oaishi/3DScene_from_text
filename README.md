@@ -1,4 +1,4 @@
-# Static and Animated 3D Scene Generation from Diverse Text Descriptions
+# Static and Animated 3D Scene Generation from Free-form Text Descriptions
 
 We propose a novel approach to generate 3D scenes (both animated and static) from text using a Transformer based NLP architecture and non-differential renderer.
 
@@ -85,3 +85,15 @@ For the model, M<sub>full</sub> -
 cd scripts
 python runner.py --type "combined" --sector "predict_single" --description <YOUR_DESCRIPTION> 
 ```
+
+## Dataset Generation 
+* Download the CLEVR dataset from [here](https://dl.fbaipublicfiles.com/clevr/CLEVR_CoGenT_v1.0_no_images.zip) 
+* Pass the JSON file path to [line 5](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/generate_description_numpy.py#L5)
+* If you want to generate image descriptions, use the templates from [description_template_numpy.py file](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/description_template_numpy.py), and for video descriptions, use the templates from [description_template_video_numpy.py file](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/video_descriptions/description_template_video_numpy.py) in [line 1](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/generate_description_numpy.py#L1)
+* Run the python file
+  ```
+  python generate_description_numpy.py
+  ```
+* Pre-calculate the pickle files of TransformerXL output for training and testing the model using [this notebook](https://github.com/oaishi/3DScene_from_text/blob/master/description_generation/file_generator.ipynb).
+  
+
